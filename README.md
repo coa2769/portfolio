@@ -30,7 +30,18 @@ Figma를 통해 디자이너와 협업한 경험이 있습니다.
 
 ---
 
-### 2. [Ransomware 복구도구 검증 소프트웨어 개발 프로젝트](https://github.com/coa2769/Ransomware-recovery-validation-tool)
+### 2. [Simple-ToDoList](https://github.com/coa2769/Simple-ToDoList)
+> React를 공부하면서 간단한 Todolist를 만들어 보았습니다.
+>개발 기간: 2022.5.12 ~ 2022.5.17
+>  
+>기술 스택:  
+>React.js / Typescript / redux / Material UI
+>  
+>[프로젝트 상세 설명](https://github.com/coa2769/Simple-ToDoList) 참고
+
+---
+
+### 3. [Ransomware 복구도구 검증 소프트웨어 개발 프로젝트](https://github.com/coa2769/Ransomware-recovery-validation-tool)
 > 입력받은 랜섬웨어 복구도구를 VirtaulBox로 구축한 시스템 내에서 테스트하는 프로젝트 입니다.
 >개발 기간: 2019.3 ~ 2019.05
 >  
